@@ -146,7 +146,7 @@ then start adding employees from the UI.
 
 ---
 
-## 7. Tech stack summary (for your resume / interview talking points)
+## 7. Tech stack summary
 
 - **Backend**: Java 17, Spring Boot 3, Spring Data JPA, Spring Security, JWT (jjwt), MySQL, Maven
 - **Frontend**: React 18, React Router, Axios, Context API for auth state
